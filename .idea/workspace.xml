@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0e4d4f8-bcb5-43f5-9e0a-41c968c479c7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ph52801595" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ph52801595.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nftsever/nftInfoServer/getInfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/nftsever/nftInfoServer/getInfo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
       <workItem from="1653193960963" duration="939000" />
       <workItem from="1653194935779" duration="1139000" />
       <workItem from="1653197442566" duration="5069000" />
-      <workItem from="1653202884806" duration="2279000" />
+      <workItem from="1653202884806" duration="3394000" />
     </task>
     <servers />
   </component>
@@ -69,10 +69,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="745" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1653195307384" />
-    <state x="468" y="166" key="SettingsEditor" timestamp="1653198809525">
+    <state x="468" y="166" key="SettingsEditor" timestamp="1653208124777">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="468" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1653198809525" />
+    <state x="468" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1653208124777" />
     <state x="652" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1653202885908">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
