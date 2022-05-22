@@ -1,0 +1,47 @@
+[2022-05-22 07:33:44,076] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 07:34:30,094] [basehttp.py:187] [basehttp:log_message][INFO]- "GET / HTTP/1.1" 200 10633
+[2022-05-22 07:34:30,376] [basehttp.py:187] [basehttp:log_message][INFO]- "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[2022-05-22 07:34:30,376] [basehttp.py:187] [basehttp:log_message][INFO]- "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[2022-05-22 07:34:30,377] [basehttp.py:187] [basehttp:log_message][INFO]- "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[2022-05-22 07:34:44,388] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 07:40:12,623] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 07:40:17,195] [basehttp.py:187] [basehttp:log_message][INFO]- "GET / HTTP/1.1" 200 11
+[2022-05-22 07:47:22,811] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 07:48:10,205] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 09:50:38,808] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 09:50:51,225] [autoreload.py:266] [autoreload:trigger_reload][INFO]- /Users/hao.pan1/Desktop/pDemo/nftsever/nftInfoServer/getInfo.py changed, reloading.
+[2022-05-22 09:50:52,151] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 09:51:00,739] [autoreload.py:266] [autoreload:trigger_reload][INFO]- /Users/hao.pan1/Desktop/pDemo/nftsever/nftInfoServer/getInfo.py changed, reloading.
+[2022-05-22 09:51:01,685] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 09:51:09,124] [autoreload.py:266] [autoreload:trigger_reload][INFO]- /Users/hao.pan1/Desktop/pDemo/nftsever/nftInfoServer/views.py changed, reloading.
+[2022-05-22 09:51:10,079] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 09:51:18,709] [autoreload.py:266] [autoreload:trigger_reload][INFO]- /Users/hao.pan1/Desktop/pDemo/nftsever/nftInfoServer/proThread.py changed, reloading.
+[2022-05-22 09:51:19,666] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 09:51:27,108] [autoreload.py:266] [autoreload:trigger_reload][INFO]- /Users/hao.pan1/Desktop/pDemo/nftsever/nftInfoServer/proThread.py changed, reloading.
+[2022-05-22 09:51:28,050] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 09:54:30,551] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 09:55:45,993] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 10:01:03,798] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 10:02:09,911] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 10:04:19,331] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 10:06:19,535] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 10:09:02,084] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 10:10:52,134] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 10:11:38,888] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 10:19:42,467] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 10:31:13,102] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 10:34:06,418] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 10:36:10,319] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 10:37:41,547] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 10:40:07,408] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 10:42:58,893] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 10:44:37,125] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 10:46:34,617] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 10:47:52,838] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 10:53:28,680] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 10:56:45,469] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 11:23:57,610] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 13:41:43,234] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 13:54:43,133] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
+[2022-05-22 13:54:56,467] [autoreload.py:266] [autoreload:trigger_reload][INFO]- C:\Users\Administrator\Desktop\nftserver\nftsever\nftInfoServer\getInfo.py changed, reloading.
+[2022-05-22 13:54:57,251] [autoreload.py:677] [autoreload:run_with_reloader][INFO]- Watching for file changes with StatReloader
