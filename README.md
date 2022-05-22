@@ -10,3 +10,14 @@ GIT使用
         git config --global user.email "504551754@qq.com"
     6、初始化项目
         git init
+    7、添加
+        git add .
+    8、提交
+        git commit -m "内容说明"
+    9、与仓库建立连接
+        git remote add origin git@github.com:PHJIENI/nft_project.git
+    10、上传
+        git push -u origin master
+    11、下载
+        git pull --rebase origin master
+        
