@@ -21,3 +21,9 @@ GIT使用
     11、下载
         git pull --rebase origin master
         
+Django项目的搭建：
+1、新建一个Django工程：django-admin startproject "项目名称"
+2、创建一个网站子应用：python manage.py startapp "子app名称"
+3、在settings中配置项目
+
+        
