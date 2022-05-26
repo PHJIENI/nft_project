@@ -4,6 +4,7 @@ from .getInfo import getCardsInfo
 from queue import Queue
 import _thread
 from .db_operate import update_db
+import  demjson3
 
 infoQueue= Queue(maxsize = 200)
 
@@ -14,10 +15,13 @@ class getInfoThread (threading.Thread):
         self.name = name
 
     def run(self):
-        print ("开启线程：" + self.name)
+        for i in demjson3.decode(self.name):
+            print ("开启线程："+ i)
         while(1):
-            infoQueue.put(getCardsInfo(self.name))
-        print ("退出线程：" + self.name)
+            for i in demjson3.decode(self.name):
+                infoQueue.put(getCardsInfo(i))
+        for i in demjson3.decode(self.name):
+            print ("退出线程：" + i)
 
 def consumerThread():
     "开始启动线程"

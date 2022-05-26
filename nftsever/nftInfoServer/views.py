@@ -5,7 +5,7 @@ import logging
 import threading
 import time
 from . import  getInfo
-from .config import goods
+from .config import goods,ts
 from .proThread import getInfoThread, consumerThread
 logger = logging.getLogger('log')
 
@@ -18,9 +18,8 @@ def index(request):
 """
 print("开始创建监控任务")
 threadId = 1
-for goodName in goods:
-    thread = getInfoThread(threadId,goodName)
-    print("开始监控:{}".format(goodName))
+for t in ts:
+    thread = getInfoThread(threadId,t)
     thread.start()
     threadId += 1
 consumerThread()

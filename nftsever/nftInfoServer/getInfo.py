@@ -24,6 +24,7 @@ from .config import goods
 
 def getCommodityInfo(id="100513726"):
     driver = webdriver.Chrome(options=option, executable_path='/home/lighthouse/chromedriver')
+    # driver = webdriver.Chrome(options=option)
     driver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
         "source": """
         Object.defineProperty(navigator, 'webdriver', {
